@@ -1,4 +1,4 @@
-package com.cursodio;
+package com.cursodio.Tarefas;
 
 public class Tarefas {
     // atributo

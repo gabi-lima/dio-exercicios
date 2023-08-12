@@ -1,4 +1,4 @@
-package com.cursodio;
+package com.cursodio.Tarefas;
 
 import java.util.ArrayList;
 import java.util.List;
